@@ -1,14 +1,9 @@
-![](https://raw.githubusercontent.com/TamimEhsan/AlgorithmVisualizer/master/Assets/homepage.JPG)
+
 
 # Algorithm Visualizer
 
 A better visualization of different algorithms made with React. 
 
-Visit : https://tamimehsan.github.io/AlgorithmVisualizer/
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.AlgorithmVisualizer)
-
-This is made to be the second version of my previous pathfinding project made with C++ igraphics. But then added some more visualizations too.  
 
 So far there are 6 segments  
 - Pathfinder
@@ -20,7 +15,7 @@ So far there are 6 segments
 - Recursion Tree
 - Turing Machine
 
-I have implemented a total of `23 algorithms` so far. And will try to add more later.  
+we have implemented a total of `23 algorithms` so far. And will try to add more later.  
 
 ## Algorithms implemented 
 
@@ -54,7 +49,6 @@ I have implemented a total of `23 algorithms` so far. And will try to add more l
 
 
 
-I am not sure if anyone would like to contribute to this project or not. But any kind of contributions are welcomes. Also if you like this please star this repo. It keeps me motivated.
 
 ### Special Features addition timeline
 
@@ -69,14 +63,7 @@ I took inspirations from the following sources for some of the segments.
 - `Recursion tree visualizer`: [Recursion Tree Visualizer](https://github.com/brpapa/recursion-tree-visualizer)
 - `Turing Machine`: [Tursi](https://github.com/schaetzc/tursi)
 
-### Note to self:
 
-To deploy recent changes to page
-
-```
-npm run build
-npm run deploy
-```
 
 
 
